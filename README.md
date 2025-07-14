@@ -19,10 +19,6 @@ Este README.md está organizado nas seguintes seções:
 8. **Estrutura da Planilha**: Descreve o conteúdo e a organização dos dados.
 9. **Licença**: Informações sobre a licença do projeto.
 
-# Selos Considerados
-
-Os selos considerados são: **Disponíveis (SeloD)**.
-
 # Informações Básicas
 
 Este artefato consiste em um arquivo Excel contendo os resultados da análise de detecção de phishing com três LLMs: **ChatGPT**, **Gemini** e **DeepSeek**.
